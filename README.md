@@ -1,9 +1,9 @@
 # 📈 Interactive Financial ML App using Streamlit
 
 **Course**: Programming for Finance (AF3005)  
-**Instructor**: [Instructor's Name]  
+**Instructor**: DR. Usama Arshad   
 **Submission Date**: 4 May 2025  
-**Student**: [Your Full Name]
+**Student**: Zainab Tahir
 
 ## 🎯 Objective
 
